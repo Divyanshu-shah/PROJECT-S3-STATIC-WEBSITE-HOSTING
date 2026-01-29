@@ -1,7 +1,7 @@
 🚀 Project Title & Tagline
 =========================
 ### My S3 Static Website 🌐
-> A fully responsive and interactive static website built with HTML, CSS, and JavaScript, hosted on Amazon S3.
+> A fully responsive and interactive static website built with HTML, CSS, hosted on Amazon S3.
 
 📖 Description
 ---------------
